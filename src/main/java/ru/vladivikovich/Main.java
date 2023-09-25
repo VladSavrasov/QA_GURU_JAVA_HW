@@ -18,10 +18,6 @@ public class Main {
         double maxD = Double.MAX_VALUE;
         double minD = Double.MIN_VALUE;
 
-
-
-
-
         System.out.println("maxInteger + minInteger = " + (maxI + minI));
         System.out.println("maxShort + minShort = " + (maxS + minS));
         System.out.println("maxInteger * minFloat = " + (maxI * minF));
