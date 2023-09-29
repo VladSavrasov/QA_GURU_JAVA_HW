@@ -1,7 +1,6 @@
 package ru.vladivikovich.hw7;
 
 import java.util.ArrayList;
-import java.util.Collection;
 
 public class ArrayListClass {
     ArrayList<String> array = new ArrayList<>();

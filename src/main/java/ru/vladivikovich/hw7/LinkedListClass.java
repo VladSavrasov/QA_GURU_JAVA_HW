@@ -1,7 +1,5 @@
 package ru.vladivikovich.hw7;
 
-import java.util.ArrayList;
-import java.util.Collection;
 import java.util.LinkedList;
 
 public class LinkedListClass {
