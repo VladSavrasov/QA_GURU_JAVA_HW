@@ -14,8 +14,8 @@ public class ArrayListClass {
         array.add(index, str);
     }
 
-    public void arrayremove(Object o) {
-        array.remove(o);
+    public void arrayremove(String s) {
+        array.remove(s);
     }
 
     public int arrayFindIndexOfElement(String str) {
@@ -26,9 +26,8 @@ public class ArrayListClass {
         return array.get(i);
     }
 
-    public void showAllElements(ArrayListClass arr) {
-        ArrayList<String> arrayList = new ArrayList<>((Collection) arr);
-        for (String element : arrayList) {
+    public void showAllElements() {
+        for (String element : array) {
             System.out.println(element);
         }
     }

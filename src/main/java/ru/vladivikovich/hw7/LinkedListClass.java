@@ -37,7 +37,7 @@ public class LinkedListClass {
                 System.out.println(listFindElement(j));
                 j++;
             }
-            while (j == i);
+            while (j != i);
         }
     }
 }
