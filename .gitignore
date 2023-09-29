@@ -5,15 +5,15 @@ build/
 
 ### IntelliJ IDEA ###
 .idea
-*.iws
-*.iml
-*.ipr
+.iws
+.iml
+.ipr
 
 ### Gradle ###
 .gradle
 
 ### Logs ###
-*.log
-*.gradlew
-*.gradlew.bat
-*.settings.gradle
+.log
+.gradlew
+.gradlew.bat
+.settings.gradle
